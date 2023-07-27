@@ -1,0 +1,1 @@
+import charactersList from "../characters";
